@@ -43,6 +43,11 @@ This repo is built **step-by-step**, from beginner to advanced, to give you comp
 
 ---
 
+> 💡 **Note:**  
+> - `blueprint` branch = Only folder structure + comments  
+> - `practice` branch = Step-by-step practice / coding  
+> - `learn` branch = Fully working code (for reference)
+
 ## 🧩 Prerequisites
 
 Before you start:
